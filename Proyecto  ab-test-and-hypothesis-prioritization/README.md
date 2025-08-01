@@ -1,4 +1,4 @@
-Proyecto 7: Priorización de Hipótesis y Prueba A/B
+Proyecto : Priorización de Hipótesis y Prueba A/B
 
 Priorización de Hipótesis y Prueba A/B
 
